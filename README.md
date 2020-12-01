@@ -4,7 +4,7 @@ By the end , you will have a strong understanding of React's workflow and the us
 
 API used: https://covid19.mathdro.id/api
 
-Setup:
+Setup:  
 
 run npm i && npm start
 
